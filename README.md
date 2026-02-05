@@ -1,5 +1,10 @@
 # 💫 About Me:
-i'm currently learning my mca 
+Hi, I’m S Akash Dora 👋
+
+🎓 BSc in Computer Science graduate
+🎓 Currently pursuing MCA (Master of Computer Applications) — Expected Graduation: 2027
+💻 Passionate about Artificial Intelligence, Software Development, and Full-Stack Web Development
+🚀 Building AI Assistants, Voice Bots, and Smart Web Applications 
 
 
 ## 🌐 Socials:
