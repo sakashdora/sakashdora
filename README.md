@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m S Akash Dora 👋
-
+ 
 🎓 MCA Student | Aspiring Software Developer
 💻 Python | Java | SQL | HTML | CSS | JavaScript
 ⚛️ Learning React.js
